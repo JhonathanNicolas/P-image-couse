@@ -13,3 +13,5 @@
 *Second day in 13-14-18*
 
   1. Read Video From a File
+
+  2. Write Video From a File
