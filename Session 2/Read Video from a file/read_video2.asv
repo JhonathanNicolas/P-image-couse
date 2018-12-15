@@ -1,0 +1,11 @@
+clear all;
+close all;
+clc
+object = vision.VideoFileReader('Wildlife.wmv');
+%Using Info
+S =info(object);
+frame_rate = S.VideoFrameRate;
+%Using Step and isDone
+
+while ~isDone(object)
+    

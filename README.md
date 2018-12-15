@@ -9,3 +9,7 @@ First day in 12-14-18:
   3. Read Image
 
   4. Write Image
+
+Second day in 13-14-18
+
+  1. Read Video From a File
