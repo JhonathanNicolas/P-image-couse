@@ -1,7 +1,11 @@
 # Course Processing Image with MATLAB
 -------------------------------------------------------------
-First day 12-14-18:
+First day in 12-14-18:
 
-  1.Course Introduction
+  1. Course Introduction
 
-  2.MATLAB Cheatsheet
+  2. MATLAB Cheatsheet
+
+  3. Read Image
+
+  4. Write Image
