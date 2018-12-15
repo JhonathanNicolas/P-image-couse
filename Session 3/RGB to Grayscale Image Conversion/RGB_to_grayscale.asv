@@ -1,0 +1,4 @@
+A = imread('lena.jpg');
+size(A)
+A_gray = rgb2gray(A); % Converte o espaço de cores RGB para escala cinza
+size(A_gray);

@@ -16,4 +16,6 @@
 
   2. Write Video From a File
 
-  3. RGB tp Grayscale image Conversion
+  3. RGB to Grayscale image Conversion
+
+  4. RGB to HSV image Conversion
