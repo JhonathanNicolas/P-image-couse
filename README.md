@@ -15,3 +15,5 @@
   1. Read Video From a File
 
   2. Write Video From a File
+
+  3. RGB tp Grayscale image Conversion
