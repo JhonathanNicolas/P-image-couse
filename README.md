@@ -29,3 +29,5 @@
   3. Histogram Equalization of RGB image
 
   4. Implementation of image Filters
+
+  5. Edge-Preserving Image Filter
