@@ -35,3 +35,5 @@
   6. Implementation of Edge Detectors
 
   7. Image Sharpening Implementation
+
+  8. Thresholding Implementation

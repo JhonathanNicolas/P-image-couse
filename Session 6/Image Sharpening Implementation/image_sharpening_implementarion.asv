@@ -1,3 +1,0 @@
-pic = 'test1.jpg';
-A = imread(pic);
-A_sharpen = imsharpen(A,'Amount', )
