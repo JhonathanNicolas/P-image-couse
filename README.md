@@ -10,7 +10,7 @@
 
   4. Write Image
 
-*Second day in 13-14-18*
+*Second day in 12-15-18*
 
   1. Read Video From a File
 
@@ -19,3 +19,7 @@
   3. RGB to Grayscale image Conversion
 
   4. RGB to HSV image Conversion
+
+*Third day in 12-16-18*
+
+  1. Plot Image Histogram
