@@ -31,3 +31,7 @@
   4. Implementation of image Filters
 
   5. Edge-Preserving Image Filter
+
+  6. Implementation of Edge Detectors
+
+  7. Image Sharpening Implementation
