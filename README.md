@@ -27,3 +27,5 @@
   2. Histogram Equalization of Grayscale image
 
   3. Histogram Equalization of RGB image
+
+  4. Implementation of image Filters
