@@ -23,3 +23,7 @@
 *Third day in 12-16-18*
 
   1. Plot Image Histogram
+
+  2. Histogram Equalization of Grayscale image
+
+  3. Histogram Equalization of RGB image
