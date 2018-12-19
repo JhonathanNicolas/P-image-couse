@@ -41,3 +41,5 @@
 *Fourth day in 19-12-18*
 
   1. Noise Reduction Implementation
+
+  2. Add noise Implementation
