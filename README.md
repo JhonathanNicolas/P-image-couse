@@ -37,3 +37,7 @@
   7. Image Sharpening Implementation
 
   8. Thresholding Implementation
+
+*Fourth day in 19-12-18*
+
+  1. Noise Reduction Implementation
