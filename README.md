@@ -47,4 +47,5 @@
  *Fifth day in 01-02-19*
 
   1. Image Dilation e Erosion
-  
+
+  2. Image Opening e Closing
