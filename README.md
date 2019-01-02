@@ -51,3 +51,5 @@
   2. Image Opening e Closing
 
   3. Object Boundary
+
+  4. Count the Number of Faces in an Image

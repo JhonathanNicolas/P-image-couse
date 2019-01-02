@@ -1,0 +1,14 @@
+%Read the image
+A = imread('faces1.jpg');
+
+%Get FaceDetector Object
+FaceDetector = vision.CascadeObjectDetector();
+
+
+%Use FaceDetector on A and get Faces
+BBOX = step(A,FaceDetector);
+
+
+%Annotate the f aces on the top of the image
+
+%Display the number of faces in a string
