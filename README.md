@@ -38,8 +38,13 @@
 
   8. Thresholding Implementation
 
-*Fourth day in 19-12-18*
+*Fourth day in 12-19-18*
 
   1. Noise Reduction Implementation
 
   2. Add noise Implementation
+
+ *Fifth day in 01-02-19*
+
+  1. Image Dilation e Erosion
+  
